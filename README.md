@@ -2,7 +2,7 @@
 
 [Karl Johnson](https://github.com/hirekarl)  
 2025-RTT-30  
-<date datetime="2025-06-16">2025-06-16</date>  
+<date datetime="2025-06-16">Jun 16 2025</date>  
 
 ![An alert box with the heading CALCUTRON 9000 over a dark gray background.](./images/readme_preview.png)
 
