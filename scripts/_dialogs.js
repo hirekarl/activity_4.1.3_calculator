@@ -9,7 +9,7 @@ The result may be an integer or a float.
 Sound good?`,
   result: (mathsExpression, mathsResult) => `The result of ${mathsExpression} is ${mathsResult}.
 
-Have a nice day. (This window will close.)`,
+Have a nice day. (This window may close.)`,
   resultInvalid: "The result I got was invalid. Oops!",
 };
 

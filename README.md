@@ -20,7 +20,7 @@ For this activity, I decided to practice breaking up the app's functionality int
 - The program greets the user as CALCUTRON 9000 and explains basic user interface and accepted input values on the first `alert()`.
 - The program only accepts integers, and will validate user input until valid integers are given as operands and a valid operand is given of the set {`+`, `-`, `*`, `/`}.
 - The program displays both the user's given arithmetic expression and the result of that expression in the final `alert()`.
-- The program closes the containing browser window on exit.
+- The program attempts to close the containing browser window on exit.
 
 #### Possible Improvements
 - The program gives `"NaN is not a valid integer. Try again."` when a `String` is given as an operand. A more graceful message could be written to notify the user that the input must be both a `Number` and an integer, instead of giving `NaN`, which has no meaning for users.
