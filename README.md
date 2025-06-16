@@ -4,6 +4,8 @@
 2025-RTT-30  
 <date datetime="2025-06-16">2025-06-16</date>  
 
+![An alert box with the heading CALCUTRON 9000 over a dark gray background.](./images/readme_preview.png)
+
 ## Overview
 ### Viewer Instructions
 Go to [](), or view my solution below.
@@ -11,7 +13,7 @@ Go to [](), or view my solution below.
 ### Solution
 - Activity 4.1.3: Simple Calculator (source at [`./scripts/app.js`](./scripts/app.js))
 
-### Notes
+#### Notes
 For this activity, I decided to practice breaking up the app's functionality into modules and functions. The design spec allowed use of `alert()` or `console.log()` for program output&mdash;I went with `alert()`.
 
 #### Features
