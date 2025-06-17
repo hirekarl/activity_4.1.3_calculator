@@ -2,6 +2,7 @@ export const Alerts = {
   welcome: `CALCUTRON 9000
 
 This is a calculator that does basic math with two integers.
+
 I ask you for a integer, then an arithmetic operation, then a second integer.
 
 The result may be an integer or a float.
